@@ -1,1 +1,0 @@
-{"name":"stylua","secondary_sources":[],"schema_version":"1.0","primary_source":{"type":"github_release_file","file":"https:\/\/github.com\/johnnymorganz\/stylua\/releases\/download\/v0.14.3\/stylua-win64.zip","repo":"johnnymorganz\/stylua","release":"v0.14.3"},"links":{"bin":{"stylua":"stylua.exe"}},"metrics":{"start_time":1662962995783,"completion_time":1662963100983}}

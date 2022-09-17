@@ -1,0 +1,2 @@
+ERR 2023-06-24T22:21:20.076 nvim.41328.0 chan_close_with_error:646: RPC: ch 1: stream write failed. RPC canceled; closing channel
+ERR 2023-06-24T22:23:17.219 nvim.47156.0 chan_close_with_error:646: RPC: ch 1: stream write failed. RPC canceled; closing channel

@@ -1,0 +1,48 @@
+[INFO  2023/6/26 23:06:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=editorconfig-checker) {}
+[INFO  2023/6/26 23:06:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  2023/6/26 23:06:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=black) {}
+[INFO  2023/6/26 23:06:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  2023/6/26 23:06:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shellcheck) {}
+[INFO  2023/6/26 23:06:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  2023/6/26 23:06:27] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  2023/6/26 23:06:27] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=editorconfig-checker)
+[INFO  2023/6/26 23:06:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=vint) {}
+[INFO  2023/6/26 23:06:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  2023/6/26 23:06:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=efm) {}
+[INFO  2023/6/26 23:06:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shellcheck)
+[INFO  2023/6/26 23:06:35] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[ERROR 2023/6/26 23:06:35] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=efm) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  2023/6/26 23:06:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=gopls) {}
+[INFO  2023/6/26 23:06:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=black)
+[INFO  2023/6/26 23:06:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[ERROR 2023/6/26 23:06:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=gopls) error=spawn: go failed with exit code - and signal -. go is not executable
+[INFO  2023/6/26 23:06:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=vint)
+[INFO  2023/6/26 23:06:55] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  2023/6/26 23:07:18] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  2023/6/26 23:10:04] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[ERROR 2023/6/26 23:29:33] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[ERROR 2023/6/26 23:30:20] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[INFO  2023/6/26 23:30:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=efm) {}
+[ERROR 2023/6/26 23:30:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=efm) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR 2023/6/26 23:36:09] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[INFO  2023/6/26 23:36:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=efm) {}
+[ERROR 2023/6/26 23:36:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=efm) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR 2023/6/26 23:44:37] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[ERROR 2023/6/26 23:45:34] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[ERROR 2023/6/26 23:45:51] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[ERROR 2023/6/26 23:48:04] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR 2023/6/26 23:50:28] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"editorconfig-checker\"".
+[ERROR 2023/6/26 23:51:12] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR 2023/6/27 23:17:30] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR 2023/6/27 23:17:53] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR 2023/6/27 23:19:38] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[INFO  2023/6/27 23:19:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=efm) {}
+[ERROR 2023/6/27 23:19:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=efm) error=spawn: go failed with exit code - and signal -. go is not executable
+[ERROR 2023/6/27 23:37:15] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR 2023/6/27 23:39:16] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"stylua\"".
+[ERROR 2023/6/27 23:39:47] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"prettier\"".
+[ERROR 2023/6/27 23:41:19] ...pack\packer\start\mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"prettier\"".
+[INFO  2023/6/28 0:05:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  2023/6/28 0:05:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cmake-language-server) {}
+[INFO  2023/6/28 0:05:14] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cmake-language-server)
+[INFO  2023/6/28 0:05:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=bash-language-server)
