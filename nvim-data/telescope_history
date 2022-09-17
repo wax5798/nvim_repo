@@ -2,3 +2,42 @@
 :qa:qa
 :qa:qa:qa
 main.c
+types.h
+main.c
+include types.h
+main.c
+\bstart_kernel\b\(
+plugin lua
+plug lua
+init.l
+plugin lua
+init
+plu lu
+init.lua
+plugin lua
+main.c
+init.lua
+option
+even
+plu
+bind
+nvim_load_mapping
+config
+comment
+nvim_comment
+init
+map
+option
+telescope.nvi
+tools confi
+start_
+start
+map
+bind
+option
+globa
+is_mac
+init
+global
+alpha-nvim
+alpha
